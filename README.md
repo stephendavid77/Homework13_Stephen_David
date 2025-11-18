@@ -22,3 +22,5 @@ This assignment required integrating a `ProgressView` into the Memory Game. The 
 
 ### Video Recording
 
+https://drive.google.com/file/d/1ijHrSJ_GFnQ5U7AwMWQVRgY3H0ek8yF-/view?usp=sharing
+
